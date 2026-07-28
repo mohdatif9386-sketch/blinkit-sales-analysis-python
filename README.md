@@ -1,8 +1,6 @@
 # blinkit-sales-analysis-python
 Blinkit Sales Analysis using Python, Pandas, NumPy, Matplotlib and Seaborn.
 
-# Blinkit Sales Analysis Using Python
-
 ## Project Overview
 
 This project focuses on analyzing Blinkit's sales data using Python.
